@@ -1,4 +1,6 @@
-live preview : 
+live preview : https://sad-wilson-2d08ba.netlify.app 
+
+#Please note that it is not premium verison and there is hourly limit for the api calls/ translations.
 
 
 
