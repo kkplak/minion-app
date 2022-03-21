@@ -5,9 +5,48 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://eskipaper.com/images/minion-wallpaper-11.jpg");
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  monospace;
 }
+
+
+  #app {
+    height: 300px;
+    text-align: center;
+    margin: 80px;
+    background-color: rgba(227, 242, 255, 0.287);
+    color: rgb(255, 238, 0)
+  }
+
+  #label {
+    color: white;
+    margin: 0 0 0 5px;
+    font-size: 22px;
+  }
+
+  #textInput {
+    padding: 10px;
+    width: 500px;
+    margin: 5px;
+    font-size: 21px;
+  }
+
+  #button {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+    border: 1px solid transparent;
+    padding: 10px 30px;
+    font-size: 22px;
+    margin-bottom: 40px;
+  }
+
+  #text {
+    margin-top: 10px;
+    color: white;
+    font-size: 32px;
+  }
